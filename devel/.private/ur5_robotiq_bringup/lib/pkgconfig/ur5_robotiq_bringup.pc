@@ -1,0 +1,8 @@
+prefix=/home/huangyi/devspace/pybullet-test/devel/.private/ur5_robotiq_bringup
+
+Name: ur5_robotiq_bringup
+Description: Description of ur5_robotiq_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

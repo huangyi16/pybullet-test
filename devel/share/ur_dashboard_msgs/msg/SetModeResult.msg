@@ -1,0 +1,1 @@
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/SetModeResult.msg

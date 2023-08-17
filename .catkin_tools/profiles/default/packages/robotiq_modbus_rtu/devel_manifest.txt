@@ -1,0 +1,6 @@
+ur5_robotiq_meta_package/robotiq_2finger_grippers/robotiq_modbus_rtu
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_modbus_rtu/cmake.lock /home/huangyi/devspace/pybullet-test/devel/./cmake.lock
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_modbus_rtu/share/robotiq_modbus_rtu/cmake/robotiq_modbus_rtuConfig-version.cmake /home/huangyi/devspace/pybullet-test/devel/share/robotiq_modbus_rtu/cmake/robotiq_modbus_rtuConfig-version.cmake
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_modbus_rtu/share/robotiq_modbus_rtu/cmake/robotiq_modbus_rtuConfig.cmake /home/huangyi/devspace/pybullet-test/devel/share/robotiq_modbus_rtu/cmake/robotiq_modbus_rtuConfig.cmake
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_modbus_rtu/lib/python3/dist-packages/robotiq_modbus_rtu/__init__.py /home/huangyi/devspace/pybullet-test/devel/lib/python3/dist-packages/robotiq_modbus_rtu/__init__.py
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_modbus_rtu/lib/pkgconfig/robotiq_modbus_rtu.pc /home/huangyi/devspace/pybullet-test/devel/lib/pkgconfig/robotiq_modbus_rtu.pc

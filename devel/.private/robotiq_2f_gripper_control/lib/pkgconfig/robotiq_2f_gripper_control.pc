@@ -1,0 +1,8 @@
+prefix=/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_2f_gripper_control
+
+Name: robotiq_2f_gripper_control
+Description: Description of robotiq_2f_gripper_control
+Version: 0.0.3
+Cflags: -I/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/robotiq_2finger_grippers/robotiq_2f_gripper_control/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs robotiq_2f_gripper_msgs

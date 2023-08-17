@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/huangyi/devspace/pybullet-test/devel/.private/universal_robots/setup.sh

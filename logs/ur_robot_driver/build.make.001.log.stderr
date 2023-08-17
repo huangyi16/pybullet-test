@@ -1,0 +1,22 @@
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:[m[K In member function ‘[01m[Kvoid ur_driver::HardwareInterface::extractToolPose(const ros::Time&)[m[K’:
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:702:58:[m[K [01;35m[Kwarning: [m[K‘[01m[Krotation.tf2::QuadWord::m_floats[3][m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+  702 |   tcp_transform_.transform.rotation = tf2::toMsg(rotation[01;35m[K)[m[K;
+      |                                                          [01;35m[K^[m[K
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:692:19:[m[K [01;35m[Kwarning: [m[K‘[01m[Krotation.tf2::QuadWord::m_floats[2][m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+  692 |   tf2::Quaternion [01;35m[Krotation[m[K;
+      |                   [01;35m[K^~~~~~~~[m[K
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:692:19:[m[K [01;35m[Kwarning: [m[K‘[01m[Krotation.tf2::QuadWord::m_floats[1][m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:702:58:[m[K [01;35m[Kwarning: [m[K‘[01m[Krotation.tf2::QuadWord::m_floats[0][m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+  702 |   tcp_transform_.transform.rotation = tf2::toMsg(rotation[01;35m[K)[m[K;
+      |                                                          [01;35m[K^[m[K
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:[m[K In member function ‘[01m[Kvoid ur_driver::HardwareInterface::extractToolPose(const ros::Time&)[m[K’:
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:702:58:[m[K [01;35m[Kwarning: [m[K‘[01m[Krotation.tf2::QuadWord::m_floats[3][m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+  702 |   tcp_transform_.transform.rotation = tf2::toMsg(rotation[01;35m[K)[m[K;
+      |                                                          [01;35m[K^[m[K
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:692:19:[m[K [01;35m[Kwarning: [m[K‘[01m[Krotation.tf2::QuadWord::m_floats[2][m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+  692 |   tf2::Quaternion [01;35m[Krotation[m[K;
+      |                   [01;35m[K^~~~~~~~[m[K
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:692:19:[m[K [01;35m[Kwarning: [m[K‘[01m[Krotation.tf2::QuadWord::m_floats[1][m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:702:58:[m[K [01;35m[Kwarning: [m[K‘[01m[Krotation.tf2::QuadWord::m_floats[0][m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+  702 |   tcp_transform_.transform.rotation = tf2::toMsg(rotation[01;35m[K)[m[K;
+      |                                                          [01;35m[K^[m[K

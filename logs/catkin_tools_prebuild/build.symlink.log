@@ -1,0 +1,12 @@
+Symlinking /home/huangyi/devspace/pybullet-test/devel/./local_setup.zsh
+Symlinking /home/huangyi/devspace/pybullet-test/devel/./local_setup.sh
+Symlinking /home/huangyi/devspace/pybullet-test/devel/./_setup_util.py
+Symlinking /home/huangyi/devspace/pybullet-test/devel/./setup.bash
+Symlinking /home/huangyi/devspace/pybullet-test/devel/./cmake.lock
+Symlinking /home/huangyi/devspace/pybullet-test/devel/./setup.zsh
+Symlinking /home/huangyi/devspace/pybullet-test/devel/./setup.sh
+Symlinking /home/huangyi/devspace/pybullet-test/devel/./env.sh
+Symlinking /home/huangyi/devspace/pybullet-test/devel/./local_setup.bash
+Symlinking /home/huangyi/devspace/pybullet-test/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/huangyi/devspace/pybullet-test/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/pkgconfig/catkin_tools_prebuild.pc

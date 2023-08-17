@@ -1,0 +1,1 @@
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_dashboard_msgs/share/roseus/ros/ur_dashboard_msgs/srv/Popup.l

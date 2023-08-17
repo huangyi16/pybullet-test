@@ -1,0 +1,12 @@
+ur5_robotiq_meta_package/universal_robot/ur_kinematics
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_kinematics/cmake.lock /home/huangyi/devspace/pybullet-test/devel/./cmake.lock
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake /home/huangyi/devspace/pybullet-test/devel/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake /home/huangyi/devspace/pybullet-test/devel/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_kinematics/lib/libur10_kin.so /home/huangyi/devspace/pybullet-test/devel/lib/libur10_kin.so
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_kinematics/lib/libur5_kin.so /home/huangyi/devspace/pybullet-test/devel/lib/libur5_kin.so
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_kinematics/lib/libur5_moveit_plugin.so /home/huangyi/devspace/pybullet-test/devel/lib/libur5_moveit_plugin.so
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_kinematics/lib/libur10_moveit_plugin.so /home/huangyi/devspace/pybullet-test/devel/lib/libur10_moveit_plugin.so
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_kinematics/lib/libur3_moveit_plugin.so /home/huangyi/devspace/pybullet-test/devel/lib/libur3_moveit_plugin.so
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_kinematics/lib/libur3_kin.so /home/huangyi/devspace/pybullet-test/devel/lib/libur3_kin.so
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_kinematics/lib/python3/dist-packages/ur_kinematics/__init__.py /home/huangyi/devspace/pybullet-test/devel/lib/python3/dist-packages/ur_kinematics/__init__.py
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_kinematics/lib/pkgconfig/ur_kinematics.pc /home/huangyi/devspace/pybullet-test/devel/lib/pkgconfig/ur_kinematics.pc

@@ -1,0 +1,1 @@
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_driver/lib/pkgconfig/ur_driver.pc

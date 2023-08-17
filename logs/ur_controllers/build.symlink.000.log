@@ -1,0 +1,4 @@
+Symlinking /home/huangyi/devspace/pybullet-test/devel/share/ur_controllers/cmake/ur_controllersConfig.cmake
+Symlinking /home/huangyi/devspace/pybullet-test/devel/share/ur_controllers/cmake/ur_controllersConfig-version.cmake
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/libur_controllers.so
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/pkgconfig/ur_controllers.pc

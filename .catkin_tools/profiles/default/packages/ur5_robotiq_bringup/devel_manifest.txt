@@ -1,0 +1,5 @@
+ur5_robotiq_meta_package/ur5_robotiq_bringup
+/home/huangyi/devspace/pybullet-test/devel/.private/ur5_robotiq_bringup/cmake.lock /home/huangyi/devspace/pybullet-test/devel/./cmake.lock
+/home/huangyi/devspace/pybullet-test/devel/.private/ur5_robotiq_bringup/share/ur5_robotiq_bringup/cmake/ur5_robotiq_bringupConfig-version.cmake /home/huangyi/devspace/pybullet-test/devel/share/ur5_robotiq_bringup/cmake/ur5_robotiq_bringupConfig-version.cmake
+/home/huangyi/devspace/pybullet-test/devel/.private/ur5_robotiq_bringup/share/ur5_robotiq_bringup/cmake/ur5_robotiq_bringupConfig.cmake /home/huangyi/devspace/pybullet-test/devel/share/ur5_robotiq_bringup/cmake/ur5_robotiq_bringupConfig.cmake
+/home/huangyi/devspace/pybullet-test/devel/.private/ur5_robotiq_bringup/lib/pkgconfig/ur5_robotiq_bringup.pc /home/huangyi/devspace/pybullet-test/devel/lib/pkgconfig/ur5_robotiq_bringup.pc

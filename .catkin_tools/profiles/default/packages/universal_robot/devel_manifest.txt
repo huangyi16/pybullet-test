@@ -1,0 +1,2 @@
+ur5_robotiq_meta_package/universal_robot/universal_robot
+/home/huangyi/devspace/pybullet-test/devel/.private/universal_robot/cmake.lock /home/huangyi/devspace/pybullet-test/devel/./cmake.lock

@@ -1,0 +1,7 @@
+Symlinking /home/huangyi/devspace/pybullet-test/devel/share/robotiq_2f_gripper_control/cmake/robotiq_2f_gripper_controlConfig-version.cmake
+Symlinking /home/huangyi/devspace/pybullet-test/devel/share/robotiq_2f_gripper_control/cmake/robotiq_2f_gripper_controlConfig.cmake
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/robotiq_2f_gripper_control/cmake.lock
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/robotiq_2f_gripper_control/robotiq_2f_action_client_example.py
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/robotiq_2f_gripper_control/robotiq_2f_action_server.py
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/python3/dist-packages/robotiq_2f_gripper_control/__init__.py
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/pkgconfig/robotiq_2f_gripper_control.pc

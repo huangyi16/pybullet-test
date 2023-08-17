@@ -1,0 +1,8 @@
+prefix=/home/huangyi/devspace/pybullet-test/devel/.private/ur5_robotiq_moveit_config
+
+Name: ur5_robotiq_moveit_config
+Description: Description of ur5_robotiq_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

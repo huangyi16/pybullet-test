@@ -1,0 +1,7 @@
+Symlinking /home/huangyi/devspace/pybullet-test/devel/share/ur_robot_driver/cmake/ur_robot_driverConfig.cmake
+Symlinking /home/huangyi/devspace/pybullet-test/devel/share/ur_robot_driver/cmake/ur_robot_driverConfig-version.cmake
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/libur_robot_driver_plugin.so
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/ur_robot_driver/ur_robot_driver_node
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/ur_robot_driver/dashboard_client
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/ur_robot_driver/robot_state_helper
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/pkgconfig/ur_robot_driver.pc

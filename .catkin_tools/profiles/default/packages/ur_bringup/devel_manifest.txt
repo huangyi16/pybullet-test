@@ -1,0 +1,5 @@
+ur5_robotiq_meta_package/universal_robot/ur_bringup
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_bringup/cmake.lock /home/huangyi/devspace/pybullet-test/devel/./cmake.lock
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig-version.cmake /home/huangyi/devspace/pybullet-test/devel/share/ur_bringup/cmake/ur_bringupConfig-version.cmake
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig.cmake /home/huangyi/devspace/pybullet-test/devel/share/ur_bringup/cmake/ur_bringupConfig.cmake
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_bringup/lib/pkgconfig/ur_bringup.pc /home/huangyi/devspace/pybullet-test/devel/lib/pkgconfig/ur_bringup.pc

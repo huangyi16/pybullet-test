@@ -1,0 +1,1 @@
+/home/huangyi/devspace/pybullet-test/devel/.private/controller_stopper/lib/pkgconfig/controller_stopper.pc

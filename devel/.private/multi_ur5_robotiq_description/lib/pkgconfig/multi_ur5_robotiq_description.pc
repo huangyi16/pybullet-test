@@ -1,0 +1,8 @@
+prefix=/home/huangyi/devspace/pybullet-test/devel/.private/multi_ur5_robotiq_description
+
+Name: multi_ur5_robotiq_description
+Description: Description of multi_ur5_robotiq_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/huangyi/devspace/pybullet-test/devel/.private/multi_ur5_robotiq_description/lib/pkgconfig/multi_ur5_robotiq_description.pc

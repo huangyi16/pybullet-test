@@ -1,0 +1,1 @@
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_2f_gripper_msgs/share/roseus/ros/robotiq_2f_gripper_msgs/msg/CommandRobotiqGripperGoal.l

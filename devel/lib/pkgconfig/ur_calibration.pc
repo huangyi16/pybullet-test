@@ -1,0 +1,1 @@
+/home/huangyi/devspace/pybullet-test/devel/.private/ur_calibration/lib/pkgconfig/ur_calibration.pc

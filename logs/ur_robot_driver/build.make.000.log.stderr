@@ -1,0 +1,18 @@
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:[m[K In member function ‘[01m[Kbool ur_driver::HardwareInterface::setIO(ur_msgs::SetIORequest&, ur_msgs::SetIOResponse&)[m[K’:
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:871:5:[m[K [01;31m[Kerror: [m[K‘[01m[KLOG_ERROR[m[K’ was not declared in this scope; did you mean ‘[01m[KROS_ERROR[m[K’?
+  871 |     [01;31m[KLOG_ERROR[m[K("Cannot execute function %u. This is not (yet) supported.", req.fun);
+      |     [01;31m[K^~~~~~~~~[m[K
+      |     [32m[KROS_ERROR[m[K
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:[m[K In member function ‘[01m[Kbool ur_driver::HardwareInterface::setIO(ur_msgs::SetIORequest&, ur_msgs::SetIOResponse&)[m[K’:
+[01m[K/home/huangyi/devspace/pybullet-test/src/ur5_robotiq_meta_package/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:871:5:[m[K [01;31m[Kerror: [m[K‘[01m[KLOG_ERROR[m[K’ was not declared in this scope; did you mean ‘[01m[KROS_ERROR[m[K’?
+  871 |     [01;31m[KLOG_ERROR[m[K("Cannot execute function %u. This is not (yet) supported.", req.fun);
+      |     [01;31m[K^~~~~~~~~[m[K
+      |     [32m[KROS_ERROR[m[K
+make[2]: *** [CMakeFiles/ur_robot_driver_plugin.dir/build.make:90: CMakeFiles/ur_robot_driver_plugin.dir/src/hardware_interface.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** [CMakeFiles/ur_robot_driver_node.dir/build.make:90: CMakeFiles/ur_robot_driver_node.dir/src/hardware_interface.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/Makefile2:2857: CMakeFiles/ur_robot_driver_node.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/Makefile2:2744: CMakeFiles/ur_robot_driver_plugin.dir/all] Error 2
+make: *** [Makefile:146: all] Error 2

@@ -1,0 +1,4 @@
+Symlinking /home/huangyi/devspace/pybullet-test/devel/share/controller_stopper/cmake/controller_stopperConfig.cmake
+Symlinking /home/huangyi/devspace/pybullet-test/devel/share/controller_stopper/cmake/controller_stopperConfig-version.cmake
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/pkgconfig/controller_stopper.pc
+Symlinking /home/huangyi/devspace/pybullet-test/devel/lib/controller_stopper/node

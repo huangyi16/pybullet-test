@@ -1,0 +1,9 @@
+ur5_robotiq_meta_package/robotiq_2finger_grippers/robotiq_2f_gripper_control
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_2f_gripper_control/cmake.lock /home/huangyi/devspace/pybullet-test/devel/./cmake.lock
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_2f_gripper_control/share/robotiq_2f_gripper_control/cmake/robotiq_2f_gripper_controlConfig-version.cmake /home/huangyi/devspace/pybullet-test/devel/share/robotiq_2f_gripper_control/cmake/robotiq_2f_gripper_controlConfig-version.cmake
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_2f_gripper_control/share/robotiq_2f_gripper_control/cmake/robotiq_2f_gripper_controlConfig.cmake /home/huangyi/devspace/pybullet-test/devel/share/robotiq_2f_gripper_control/cmake/robotiq_2f_gripper_controlConfig.cmake
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_2f_gripper_control/lib/robotiq_2f_gripper_control/cmake.lock /home/huangyi/devspace/pybullet-test/devel/lib/robotiq_2f_gripper_control/cmake.lock
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_2f_gripper_control/lib/robotiq_2f_gripper_control/robotiq_2f_action_client_example.py /home/huangyi/devspace/pybullet-test/devel/lib/robotiq_2f_gripper_control/robotiq_2f_action_client_example.py
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_2f_gripper_control/lib/robotiq_2f_gripper_control/robotiq_2f_action_server.py /home/huangyi/devspace/pybullet-test/devel/lib/robotiq_2f_gripper_control/robotiq_2f_action_server.py
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_2f_gripper_control/lib/python3/dist-packages/robotiq_2f_gripper_control/__init__.py /home/huangyi/devspace/pybullet-test/devel/lib/python3/dist-packages/robotiq_2f_gripper_control/__init__.py
+/home/huangyi/devspace/pybullet-test/devel/.private/robotiq_2f_gripper_control/lib/pkgconfig/robotiq_2f_gripper_control.pc /home/huangyi/devspace/pybullet-test/devel/lib/pkgconfig/robotiq_2f_gripper_control.pc

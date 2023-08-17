@@ -1,0 +1,6 @@
+devel_space: /home/huangyi/devspace/pybullet-test/devel
+install: false
+install_space: /home/huangyi/devspace/pybullet-test/install
+profile: default
+source_space: /home/huangyi/devspace/pybullet-test/src
+workspace: /home/huangyi/devspace/pybullet-test
